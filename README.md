@@ -1,6 +1,6 @@
 **Pasos para Configurar y Ejecutar el Proyecto**
 
-**Instalar las Dependencias**: Ejecutar `npm install` para crear la carpeta `node_modules`
+**Instalar las Dependencias**: Ejecutar `npm install express pg pg-format dotenv` para crear la carpeta `node_modules`y las dependencias necesarias
 
 **Configurar el Archivo `.env`**: Copiar el archivo `.envexample` a `.env` y configurar tus variables de entorno.
 
